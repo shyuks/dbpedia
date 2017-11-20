@@ -103,7 +103,7 @@ body {
 } */
 
 #landing .middle-side {
-    background: url("/teethwhitening_healthtip1_s.jpg") no-repeat center;
+    background: url("/diabetes_image1.jpg") no-repeat center;
     background-size: cover;
     min-height: 55rem;
     position: relative;
@@ -146,7 +146,7 @@ body {
 }
 
 #landing .right-side {
-    background: url("/teethwhitening_landing_header_e.jpg") no-repeat center;
+    background: url("/diabetes_image2.jpg") no-repeat center;
     background-size: cover;
     min-height: 55rem;
     max-height: 721px;
@@ -330,7 +330,7 @@ body {
             to left,
             white,
             rgba(255, 255, 255, 0.5)),
-        url("/teethwhitening_healthtip1_s.jpg") no-repeat center;
+        url("/diabetes_image3.jpg") no-repeat center;
     background-size: cover;
     padding-top: 30px;
     padding-bottom: 50px;
@@ -383,7 +383,7 @@ body {
             to right,
             white,
             rgba(255, 255, 255, 0.5)),
-        url("/teethwhitening_healthtip2_s.jpg") no-repeat center;
+        url("/diabetes_image4.jpg") no-repeat center;
     background-size: cover;
     padding-top: 30px;
     padding-bottom: 50px;
@@ -539,34 +539,34 @@ body {
     height: 200px;
     width: 100%;
     background:
-        url("/teethwhitening_blog1_s.jpg") no-repeat center;
+        url("/diabetes_image5.jpg") no-repeat center;
     background-size: cover;
 }
 #blog-two {
     height: 200px;
     width: 100%;
     background:
-        url("/teethwhitening_blog2_s.jpg") no-repeat center;
+        url("/diabetes_image6.jpg") no-repeat center;
     background-size: cover;
 }
 #blog-three {
     height: 200px;
     width: 100%;
     background:
-        url("/teethwhitening_blog3_s.jpg") no-repeat center;
+        url("/diabetes_image7.jpg") no-repeat center;
     background-size: cover;
 }
 #blog-four {
     height: 200px;
     width: 100%;
     background:
-        url("/teethwhitening_blog4_s.jpg") no-repeat center;
+        url("/diabetes_image8.jpg") no-repeat center;
     background-size: cover;
 }
 #blog-five {
     height: 200px;
     width: 100%;
     background:
-        url("/teethwhitening_blog5_s.jpg") no-repeat center;
+        url("/diabetes_image9.jpg") no-repeat center;
     background-size: cover;
 }

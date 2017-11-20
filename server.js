@@ -76,9 +76,9 @@ app.post('/sendContactForm', function(req, res) {
         res.render('Index_F.ejs');
     });
 
-    app.get('/G', function(req, res) {
-        res.render('Index_G.ejs');
-    });
+    // app.get('/G', function(req, res) {
+    //     res.render('Index_G.ejs');
+    // });
 
 // app.get('/search', function(req, res) {
 //     res.sendFile(path.join(__dirname, './public/templates/search.html'));
