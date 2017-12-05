@@ -69,10 +69,10 @@ app.post('/sendContactForm', function(req, res) {
 });
     
     app.get('/', function(req, res) {
-        res.render('Index_F.ejs');
+        res.render('blank.ejs');
     });
     
-    app.get('/F', function(req, res) {
+    app.get('/demo', function(req, res) {
         res.render('Index_F.ejs');
     });
 
@@ -173,6 +173,6 @@ app.listen(3000, function() {
     console.log('Listening On http://138.68.248.193:8080/');
 });
 
-// app.listen(80, '138.197.215.23', function() {
-//     console.log('Listening On http://138.68.248.193:8080/');
+// app.listen(80, '45.55.11.72', function() {
+//     console.log('Listening On http://45.55.11.72:8080/'');
 // });
